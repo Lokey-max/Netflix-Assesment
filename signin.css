@@ -1,0 +1,172 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.image{
+    margin-left: 15px;
+    padding: 20px;
+}
+
+.container{
+    background-image: url(img_signin.jpg);
+    margin: 0%;
+    padding: 0%;
+}
+
+.container-2{
+    background-color: rgba(0, 0, 0, 0.466);
+    margin: 0%;
+    padding: 0%;
+}
+
+.shadow{
+    background-color: rgba(0, 0, 0, 0.74);
+    height: 600px;
+    width: 400px;
+    margin-left: 450px;
+}
+
+.puss{
+    color: #ffffff;
+    font-size: 14px;
+    display: block;
+    font-weight: normal;
+    font-family: sans-serif;
+    margin-left: 60px;
+    padding-top: 40px;
+}
+
+.h1{
+    margin-bottom: 50px;
+}
+
+.form input{
+    height: 48px;
+    width: 280px;
+    background-color: #333333;
+    border-color: #333333a9;
+    margin-left: 60px;
+    margin-top: 10px;
+    border-radius: 6.5px;
+    font-size: 15px;
+}
+
+.button-A{
+    margin-left: 60px
+}
+
+.btn-A{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    height: 48px;
+    width: 280px;
+    color: white;
+    background-color: red;
+    font-size: 15px;
+}
+
+.para-rem{
+    color: #b3b3b3;
+    margin-left: 57px;
+    font-size: 15px;
+}
+
+.need{
+    margin-left: 100px;
+}
+
+.p11{
+    margin-bottom: 0px;
+}
+
+.new{
+    margin-top: 60px;
+}
+
+.Netflix{
+    color:#b3b3b3af;
+    margin-left: 62px;
+    margin-bottom: 10px;
+
+}
+
+.p1{
+    color: #333333;
+}
+
+.parat{
+    color: white;
+}
+
+.recapt{
+    color: #8c8c8c;
+    margin-left: 62px;
+    margin-top: 10px;
+    font-size: 14.3px;
+}
+
+.learn{
+    color: #0071eb;
+}
+
+.shadow-2{
+    background-color: rgba(0, 0, 0, 0.678);
+    height: 150px;
+    width: 1348px;
+    margin-top: 70px;
+}
+
+.content{
+    color: #737373;
+    margin-left: 200px;
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+.content-2{
+    padding-top: 20px;
+}
+
+.content-3{
+    padding-top: 10px;
+    
+}
+
+.centre{
+    margin-left: 180px;
+}
+
+.terms{
+    margin-left: 150px;
+}
+
+.privacy{
+    margin-left: 150px;
+}
+
+.info{
+    margin-left: 95px;
+}
+
+.white{
+    background-color: white;
+    width: 1348px;
+    height: 40px;
+}
+
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+    }
+  }
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+  }
